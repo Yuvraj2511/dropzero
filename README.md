@@ -175,6 +175,20 @@ This project demonstrates practical experience with:
 - More comprehensive automated testing.
 - Enhanced observability and error reporting.
 
+
+## Screenshots
+
+### Homepage
+![DropZero Homepage](screenshots/homepage.png)
+
+### Upload Success
+![DropZero Upload Success](screenshots/upload-success.png)
+
+### Download Page
+![DropZero Download Page](screenshots/download-page.png)
+
+
+
 ## Author
 
 **Yuvraj Singh**
