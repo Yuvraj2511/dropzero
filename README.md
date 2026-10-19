@@ -176,16 +176,16 @@ This project demonstrates practical experience with:
 - Enhanced observability and error reporting.
 
 
-## Screenshots
+Screenshots for the DropZero project.
 
 ### Homepage
-![DropZero Homepage](screenshots/homepage.png)
+<img width="948" height="500" alt="homepage" src="https://github.com/user-attachments/assets/0862593d-ed1b-453a-ad02-a9a1c8ccac6d" />
 
 ### Upload Success
-![DropZero Upload Success](screenshots/upload-success.png)
+<img width="947" height="497" alt="upload-success" src="https://github.com/user-attachments/assets/6d27575f-9b2c-434e-8e71-6bdb89a65e25" />
 
 ### Download Page
-![DropZero Download Page](screenshots/download-page.png)
+<img width="947" height="499" alt="download-page" src="https://github.com/user-attachments/assets/5b385842-f91a-4321-8e53-00feec6d4dd4" />
 
 
 
